@@ -1,6 +1,6 @@
 {
   "name": "ntalk",
-  "description": "Node talk - Agenda de contatos",  
+  "description": "Node talk - Agenda de contatos Git",  
   "private": false,
   "version": "0.0.1",
   "scripts": {
